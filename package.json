@@ -25,7 +25,7 @@
     "@feathersjs/authentication-oauth": "^4.3.3",
     "@feathersjs/client": "^4.3.3",
     "@feathersjs/configuration": "^4.3.3",
-    "@feathersjs/socketio": "^4.3.3",
+    "@feathersjs/socketio": "^4.5.4",
     "@kubernetes/client-node": "^0.11.0",
     "applicationinsights": "^1.4.2",
     "debug": "^4.1.1",
