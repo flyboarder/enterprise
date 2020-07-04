@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/degree9/enterprise#readme",
   "dependencies": {
-    "@azure/event-hubs": "^5.0.0-preview.6",
+    "@azure/event-hubs": "^5.2.2",
     "@azure/service-bus": "^1.1.1",
     "@feathersjs/authentication": "^4.3.3",
     "@feathersjs/authentication-local": "^4.3.3",
